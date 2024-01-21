@@ -22,7 +22,13 @@ CarFlex is a mobile application built using React Native for car enthusiasts. It
 - **Login:** Existing users can log in using their credentials.
 
 ## Screenshots
+![Landing Screen](Screenshots/Landing-Page.png)
 ![Login Screen](Screenshots/Login.png)
+![Home Screen](Screenshots/Home-Screen.png)
+![AD Details Screen](Screenshots/AD-Details.png)
+![Sell Car Screen](Screenshots/Sell-car.png)
+![Featured Video Screen](Screenshots/Featured-Video-Screen.png)
+
 
 You can visit Figma to see it's frontend design. The link: https://www.figma.com/file/VJzIKtEFXm8tW8Iq7wAQtd/Car-Flex-Interface?type=design&node-id=0%3A1&mode=design&t=P5b5cN4OyDNUGQiz-1
 
