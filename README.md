@@ -26,7 +26,7 @@ CarFlex is a mobile application built using React Native for car enthusiasts. It
 ![Login Screen](Screenshots/Login.png)
 ![Home Screen](Screenshots/Home_Screen.png)
 ![AD Details Screen](Screenshots/AD_Details.png)
-![Sell Car Screen](Screenshots/Sell_car.jgp)
+![Sell Car Screen](Screenshots/Sell_car.jpg)
 ![Featured Video Screen](Screenshots/Featured_Video_Screen.png)
 
 
